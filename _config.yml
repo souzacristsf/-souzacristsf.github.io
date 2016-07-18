@@ -40,8 +40,8 @@ my:
             cell: "AnHuiLi"
     skills:
         frontend: ["HTML | Markdown", "CSS | SASS", "JS | jQuery", "Bootstrap"]
-        backend: ["PHP", "MySQL", "Redis", "Regex", "Laravel", "OSC"]
-        tools: ["Sublime Text", "Git | Github", "Linux", "Jekyll | Liquid"]
+        backend: ["Sql Server", "MySQL", "Postgree", "DB2", "mongoDB"]
+        tools: ["Visual Code", "Git | Github", "Linux", "Jekyll"]
 
 collections:
     qqGroupGuide:
