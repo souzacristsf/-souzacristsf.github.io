@@ -32,12 +32,12 @@ my:
         pinterest: https://www.pinterest.com/miblah/
         tel: 15532915861
         address:
-            country: China
-            state: Beijing
-            city: Beijing
+            country: Brasil
+            state: Santa Catarina
+            city: Navegantes
             distribute: ChaoYang
             postcode: 000000
-            cell: "AnHuiLi"
+            cell: "(47) - 84025265"
     skills:
         frontend: ["HTML | Markdown", "CSS | SASS", "JS | jQuery", "Bootstrap"]
         backend: ["Sql Server", "MySQL", "Postgree", "DB2", "mongoDB"]
