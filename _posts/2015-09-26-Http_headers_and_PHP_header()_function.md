@@ -2,7 +2,7 @@
 title: "HTTP 头和 PHP header() 函数"
 layout: post
 category: translation
-tags: [php, http]
+tags: [php, http, mongo]
 excerpt: "许多初级到中级的的 PHP 程序员把 header() 函数当作某种神秘巫术. 他们可以照着代码示例把功能实现, 但是还是不知道到底它是如果运作的. 我最开始就是这样的.
 
 
