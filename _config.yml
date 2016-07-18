@@ -25,19 +25,19 @@ my:
     realName_cn: 方浩
     jobTitle: "Estudante"
     contact:
-        qq: (47) - 84025265
+        qq: (47)-84025265
         email: souza_crists@hotmail.com
         github: http://www.github.com/souzacristsf
         qzone: http://744910240.qzone.qq.com
         pinterest: https://www.pinterest.com/miblah/
         tel: 15532915861
         address:
-            country: Brasil
-            state: Santa Catarina
-            city: Navegantes
+            country: China
+            state: Beijing
+            city: Beijing
             distribute: ChaoYang
             postcode: 000000
-            cell: "(47) - 84025265"
+            cell: "AnHuiLi"
     skills:
         frontend: ["HTML | Markdown", "CSS | SASS", "JS | jQuery", "Bootstrap"]
         backend: ["Sql Server", "MySQL", "Postgree", "DB2", "mongoDB"]
